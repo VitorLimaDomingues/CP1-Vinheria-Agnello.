@@ -1,4 +1,4 @@
-![CP1 Vinheria Agnello](Vinheria.agnello)
+![CP1 Vinheria Agnello](Vinheria%20agnello.png)
 
 # CP1. - Edge Computing & Computer Systems. - Vinheria Agnello.
 
