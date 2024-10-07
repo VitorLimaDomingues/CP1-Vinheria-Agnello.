@@ -1,3 +1,5 @@
+![CP1 Vinheria Agnello](Vinheria.agnello)
+
 # CP1. - Edge Computing & Computer Systems. - Vinheria Agnello.
 
 Este projeto monitora a luminosidade do local, utilizando uma placa Arduino. O sensor de luminosidade capta o nível de luz ambiente, e o sistema aciona LEDs de diferentes cores (verde, amarelo, vermelho) e um buzzer, dependendo da intensidade da luz detectada. O código também irá exibir o valor da luminosidade no Monitor Serial.
