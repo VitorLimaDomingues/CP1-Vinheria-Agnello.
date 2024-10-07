@@ -48,3 +48,11 @@ Para reproduzir este projeto, você vai precisar dos seguintes materiais
 ### 3. Executando o projeto:
 - Após o upload, o Arduino começará a monitorar a luminosidade e acionar os LEDs e o buzzer conforme os valores lidos pelo sensor.
 - Abra o **Monitor Serial** para vizualizar em tempo real, os valores de luminosidade em tempo real.
+
+
+## Autores do projeto:
+
+- Vitor de Lima Domingues.
+- Giovanni Romano Provazi.
+- João Pedro Vieira de Morais.
+- Enzo Galhardo.
